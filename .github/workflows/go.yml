@@ -5,6 +5,9 @@ on:
     branches: [ master ]
   pull_request:
     branches: [ master ]
+  workflow_dispatch:
+  schedule:
+  - cron: "0 0/12 * *"
 
 jobs:
 
@@ -37,7 +40,7 @@ jobs:
     - name: Update README.md
       run: |
         git config --global user.email "nguyenduyquang06@gmail.com"
-        git config --global user.name "duyquang6"
-        git add .
+        git config --global user.name "Github Action bot"
+        git add README.md
         git commit -m "Updated README.md" || echo "No changes to commit"
         git push
