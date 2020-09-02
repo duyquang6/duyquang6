@@ -33,7 +33,7 @@ jobs:
       run: go test -v cmd/generate/main.go
       
     - name: Generate README.md
-      run: ./main
+      run: FIRESTORE_KEY=${{ secrets.FIRESTORE_KEY }} ./main
     - name: Update README.md
       run: |
         git config --global user.email "nguyenduyquang06@gmail.com"
