@@ -41,8 +41,10 @@ type GithubActivity struct {
 	} `json:"repo"`
 	Payload struct {
 		Commits []struct {
-			Msg string `json:"message"`
-			URL string `json:"url"`
+			Msg        string `json:"message"`
+			CommitHash string `json:"sha"`
+			URL        string `json:"url"`
+			HTMLURL    string `json:"html_url"`
 		} `json:"commits"`
 	} `json:"payload"`
 	CreatedAt string `json:"created_at"`
@@ -119,6 +121,7 @@ func getGithubRecentActivity(username string) ([]GithubActivity, error) {
 	count := 0
 	for _, val := range githubActivities {
 		if val.TypeEvent == "PushEvent" && val.Repo.Name != "duyquang6/duyquang6" {
+			val.Payload.Commits[0].HTMLURL = fmt.Sprintf("https://github.com/%v/commit/%v", val.Repo.Name, val.Payload.Commits[0].CommitHash)
 			resp = append(resp, val)
 			count++
 			if count == 5 {
