@@ -1,5 +1,5 @@
 # Welcome to my github 
-Today is 06-Sep-2020\
+Today is 07-Sep-2020\
 What I do recently on github:
 
  - Contributing repo duyquang6/go-wrr-loadbalancer with [commit](https://github.com/duyquang6/go-wrr-loadbalancer/commit/1c37b442f88bddc9dde6232eec9e93453bb42bb1) `GetNextPeer: Update error msg` on  2020-09-06T08:12:34Z
@@ -12,12 +12,12 @@ What I do recently on github:
 
 There is some article you might want to read:
 
- - [I actually modified the runtime to see exactly what is happening. - 2020-09-03 10:06:09](https://medium.com/@blanchon.vincent/i-actually-modified-the-runtime-to-see-exactly-what-is-happening-a0f320f274c9?source=rss-f26b90a8ca4b------2)
-
  - [Go: Multiple Errors Management - 2020-09-01 13:44:28](https://medium.com/a-journey-with-go/go-multiple-errors-management-a67477628cf1?source=rss-f26b90a8ca4b------2)
+
+ - [Go: Timers’ Life Cycle - 2020-07-06 16:01:01](https://medium.com/a-journey-with-go/go-timers-life-cycle-403f3580093a?source=rss-f26b90a8ca4b------2)
 
  - [Go: Object File &amp; Relocations - 2020-07-01 13:52:31](https://medium.com/a-journey-with-go/go-object-file-relocations-804438ec379b?source=rss-f26b90a8ca4b------2)
 
- - [Behind the scenes of Chat Applications - 2018-09-04 05:11:53](https://medium.com/@sudarakayasindu/behind-the-scenes-of-chat-applications-38634f584758?source=rss-1a65837801e2------2)
+ - [Overcoming challenges of Serverless with Golang - 2020-06-22 06:19:11](https://medium.com/swlh/overcoming-challenges-of-serverless-with-golang-aa6078b3d3b7?source=rss-1a65837801e2------2)
 
- - [GSoC 2017 : Data Source plugin for Eclipse Che 5 - 2017-08-28 17:49:47](https://medium.com/@sudarakayasindu/gsoc-2017-data-source-plugin-for-eclipse-che-5-743235de3f6c?source=rss-1a65837801e2------2)
+ - [Go Modules for Go Dep Users - 2020-06-06 19:11:55](https://medium.com/@sudarakayasindu/go-modules-for-go-dep-users-2f2d983525fc?source=rss-1a65837801e2------2)
