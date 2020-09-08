@@ -1,6 +1,8 @@
 # Welcome to my github 
-Today is 07-Sep-2020\
+Today is 08-Sep-2020\
 What I do recently on github:
+
+ - Contributing repo duyquang6/gintoki with [commit](https://github.com/duyquang6/gintoki/commit/9135c55bc0bf7d2ce7002c73c5203f6a46e29aa9) `Update get product inventory endpoint` on  2020-09-07T21:11:09Z
 
  - Contributing repo duyquang6/go-wrr-loadbalancer with [commit](https://github.com/duyquang6/go-wrr-loadbalancer/commit/1c37b442f88bddc9dde6232eec9e93453bb42bb1) `GetNextPeer: Update error msg` on  2020-09-06T08:12:34Z
 
@@ -12,12 +14,12 @@ What I do recently on github:
 
 There is some article you might want to read:
 
- - [Go: Multiple Errors Management - 2020-09-01 13:44:28](https://medium.com/a-journey-with-go/go-multiple-errors-management-a67477628cf1?source=rss-f26b90a8ca4b------2)
+ - [Hello Enrico Piccinin, - 2020-09-03 08:29:09](https://medium.com/@blanchon.vincent/hello-enrico-piccinin-df2df370745?source=rss-f26b90a8ca4b------2)
+
+ - [Go: Built-in Functions Optimizations - 2020-08-12 16:01:01](https://medium.com/a-journey-with-go/go-built-in-functions-optimizations-70c5abb3a680?source=rss-f26b90a8ca4b------2)
 
  - [Go: Introduction to the Escape Analysis - 2020-08-06 16:01:01](https://medium.com/a-journey-with-go/go-introduction-to-the-escape-analysis-f7610174e890?source=rss-f26b90a8ca4b------2)
 
  - [Go: How to Reduce Lock Contention with the Atomic Package - 2020-08-01 13:08:35](https://medium.com/a-journey-with-go/go-how-to-reduce-lock-contention-with-the-atomic-package-ba3b2664b549?source=rss-f26b90a8ca4b------2)
 
- - [Go: Object File &amp; Relocations - 2020-07-01 13:52:31](https://medium.com/a-journey-with-go/go-object-file-relocations-804438ec379b?source=rss-f26b90a8ca4b------2)
-
- - [How I spent my summer with GSoC 2018 as an intern at Free UK Genealogy - 2018-07-25 17:18:50](https://medium.com/@sudarakayasindu/how-i-spent-my-summer-with-gsoc-2018-as-an-intern-of-free-uk-genealogy-245f7871a886?source=rss-1a65837801e2------2)
+ - [I have a draft about write barriers, I will continue to work on it in the next weeks, that should… - 2020-07-08 11:55:36](https://medium.com/@blanchon.vincent/i-have-a-draft-about-write-barriers-i-will-continue-to-work-on-it-in-the-next-weeks-that-should-78e6030f4426?source=rss-f26b90a8ca4b------2)
