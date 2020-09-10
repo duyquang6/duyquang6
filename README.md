@@ -1,5 +1,5 @@
 # Welcome to my github 
-Today is 09-Sep-2020\
+Today is 10-Sep-2020\
 What I do recently on github:
 
  - Contributing repo duyquang6/gintoki with [commit](https://github.com/duyquang6/gintoki/commit/9135c55bc0bf7d2ce7002c73c5203f6a46e29aa9) `Update get product inventory endpoint` on  2020-09-07T21:11:09Z
@@ -14,12 +14,12 @@ What I do recently on github:
 
 There is some article you might want to read:
 
- - [Go: How to Reduce Lock Contention with the Atomic Package - 2020-08-01 13:08:35](https://medium.com/a-journey-with-go/go-how-to-reduce-lock-contention-with-the-atomic-package-ba3b2664b549?source=rss-f26b90a8ca4b------2)
+ - [Hello Enrico Piccinin, - 2020-09-03 08:29:09](https://medium.com/@blanchon.vincent/hello-enrico-piccinin-df2df370745?source=rss-f26b90a8ca4b------2)
 
- - [Rethinking Error Handling in Golang - 2020-06-13 18:14:49](https://medium.com/swlh/rethinking-error-handling-in-golang-eac8160afe4?source=rss-1a65837801e2------2)
+ - [Go: Built-in Functions Optimizations - 2020-08-12 16:01:01](https://medium.com/a-journey-with-go/go-built-in-functions-optimizations-70c5abb3a680?source=rss-f26b90a8ca4b------2)
+
+ - [Go: Timers’ Life Cycle - 2020-07-06 16:01:01](https://medium.com/a-journey-with-go/go-timers-life-cycle-403f3580093a?source=rss-f26b90a8ca4b------2)
 
  - [Behind the scenes of Chat Applications - 2018-09-04 05:11:53](https://medium.com/@sudarakayasindu/behind-the-scenes-of-chat-applications-38634f584758?source=rss-1a65837801e2------2)
-
- - [How I spent my summer with GSoC 2018 as an intern at Free UK Genealogy - 2018-07-25 17:18:50](https://medium.com/@sudarakayasindu/how-i-spent-my-summer-with-gsoc-2018-as-an-intern-of-free-uk-genealogy-245f7871a886?source=rss-1a65837801e2------2)
 
  - [Enabling and accessing Docker Engine API on a remote docker host on Ubuntu - 2017-09-26 07:35:38](https://medium.com/@sudarakayasindu/enabling-and-accessing-docker-engine-api-on-a-remote-docker-host-on-ubuntu-16-04-2c15f55f5d39?source=rss-1a65837801e2------2)
