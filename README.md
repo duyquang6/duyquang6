@@ -1,5 +1,5 @@
 # Welcome to my github 
-Today is 12-Sep-2020\
+Today is 13-Sep-2020\
 What I do recently on github:
 
  - Contributing repo duyquang6/gintoki with [commit](https://github.com/duyquang6/gintoki/commit/9135c55bc0bf7d2ce7002c73c5203f6a46e29aa9) `Update get product inventory endpoint` on  2020-09-07T21:11:09Z
@@ -14,12 +14,12 @@ What I do recently on github:
 
 There is some article you might want to read:
 
- - [Hello Enrico Piccinin, - 2020-09-03 08:29:09](https://medium.com/@blanchon.vincent/hello-enrico-piccinin-df2df370745?source=rss-f26b90a8ca4b------2)
+ - [Go: How Are Deadlocks Triggered? - 2020-07-11 17:16:10](https://medium.com/a-journey-with-go/go-how-are-deadlocks-triggered-2305504ac019?source=rss-f26b90a8ca4b------2)
 
- - [Go: Timers’ Life Cycle - 2020-07-06 16:01:01](https://medium.com/a-journey-with-go/go-timers-life-cycle-403f3580093a?source=rss-f26b90a8ca4b------2)
-
- - [Hi @Thomas Thank you a lot for the input. - 2020-06-20 10:21:39](https://medium.com/@sudarakayasindu/hi-thomas-thank-you-a-lot-for-the-input-23348db967ed?source=rss-1a65837801e2------2)
+ - [I have a draft about write barriers, I will continue to work on it in the next weeks, that should… - 2020-07-08 11:55:36](https://medium.com/@blanchon.vincent/i-have-a-draft-about-write-barriers-i-will-continue-to-work-on-it-in-the-next-weeks-that-should-78e6030f4426?source=rss-f26b90a8ca4b------2)
 
  - [Rethinking Error Handling in Golang - 2020-06-13 18:14:49](https://medium.com/swlh/rethinking-error-handling-in-golang-eac8160afe4?source=rss-1a65837801e2------2)
 
- - [Go Modules for Go Dep Users - 2020-06-06 19:11:55](https://medium.com/@sudarakayasindu/go-modules-for-go-dep-users-2f2d983525fc?source=rss-1a65837801e2------2)
+ - [How I spent my summer with GSoC 2018 as an intern at Free UK Genealogy - 2018-07-25 17:18:50](https://medium.com/@sudarakayasindu/how-i-spent-my-summer-with-gsoc-2018-as-an-intern-of-free-uk-genealogy-245f7871a886?source=rss-1a65837801e2------2)
+
+ - [GSoC 2017 : Data Source plugin for Eclipse Che 5 - 2017-08-28 17:49:47](https://medium.com/@sudarakayasindu/gsoc-2017-data-source-plugin-for-eclipse-che-5-743235de3f6c?source=rss-1a65837801e2------2)
