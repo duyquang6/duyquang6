@@ -1,5 +1,5 @@
 # Welcome to my github 
-Today is 17-Sep-2020\
+Today is 18-Sep-2020\
 What I do recently on github:
 
  - Contributing repo duyquang6/gintoki with [commit](https://github.com/duyquang6/gintoki/commit/83d3b00638a0de51fa026ce9f54f925bd85473d6) `update readme` on  2020-09-17T09:12:08Z
@@ -14,12 +14,12 @@ What I do recently on github:
 
 There is some article you might want to read:
 
+ - [I actually modified the runtime to see exactly what is happening. - 2020-09-03 10:06:09](https://medium.com/@blanchon.vincent/i-actually-modified-the-runtime-to-see-exactly-what-is-happening-a0f320f274c9?source=rss-f26b90a8ca4b------2)
+
+ - [I have a draft about write barriers, I will continue to work on it in the next weeks, that should… - 2020-07-08 11:55:36](https://medium.com/@blanchon.vincent/i-have-a-draft-about-write-barriers-i-will-continue-to-work-on-it-in-the-next-weeks-that-should-78e6030f4426?source=rss-f26b90a8ca4b------2)
+
  - [Go: Timers’ Life Cycle - 2020-07-06 16:01:01](https://medium.com/a-journey-with-go/go-timers-life-cycle-403f3580093a?source=rss-f26b90a8ca4b------2)
 
- - [Overcoming challenges of Serverless with Golang - 2020-06-22 06:19:11](https://medium.com/swlh/overcoming-challenges-of-serverless-with-golang-aa6078b3d3b7?source=rss-1a65837801e2------2)
+ - [Go Modules for Go Dep Users - 2020-06-06 19:11:55](https://medium.com/@sudarakayasindu/go-modules-for-go-dep-users-2f2d983525fc?source=rss-1a65837801e2------2)
 
- - [Hi @Thomas Thank you a lot for the input. - 2020-06-20 10:21:39](https://medium.com/@sudarakayasindu/hi-thomas-thank-you-a-lot-for-the-input-23348db967ed?source=rss-1a65837801e2------2)
-
- - [Rethinking Error Handling in Golang - 2020-06-13 18:14:49](https://medium.com/swlh/rethinking-error-handling-in-golang-eac8160afe4?source=rss-1a65837801e2------2)
-
- - [Enabling and accessing Docker Engine API on a remote docker host on Ubuntu - 2017-09-26 07:35:38](https://medium.com/@sudarakayasindu/enabling-and-accessing-docker-engine-api-on-a-remote-docker-host-on-ubuntu-16-04-2c15f55f5d39?source=rss-1a65837801e2------2)
+ - [How I spent my summer with GSoC 2018 as an intern at Free UK Genealogy - 2018-07-25 17:18:50](https://medium.com/@sudarakayasindu/how-i-spent-my-summer-with-gsoc-2018-as-an-intern-of-free-uk-genealogy-245f7871a886?source=rss-1a65837801e2------2)
