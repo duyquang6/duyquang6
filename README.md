@@ -1,6 +1,8 @@
 # Welcome to my github 
-Today is 18-Sep-2020\
+Today is 19-Sep-2020\
 What I do recently on github:
+
+ - Contributing repo duyquang6/rust-threadpool with [commit](https://github.com/duyquang6/rust-threadpool/commit/23295a40014883d7b7f52813e4d83d1a6672880d) `add workerpool` on  2020-09-18T19:52:42Z
 
  - Contributing repo duyquang6/gintoki with [commit](https://github.com/duyquang6/gintoki/commit/83d3b00638a0de51fa026ce9f54f925bd85473d6) `update readme` on  2020-09-17T09:12:08Z
 
@@ -10,15 +12,13 @@ What I do recently on github:
 
  - Contributing repo duyquang6/gintoki with [commit](https://github.com/duyquang6/gintoki/commit/f6748190136e74851f8b4766d5d9708456f7d9d4) `add readme and license` on  2020-09-16T12:02:06Z
 
- - Contributing repo duyquang6/gintoki with [commit](https://github.com/duyquang6/gintoki/commit/d941e8c31b0bfd13094c59400554ceac5664078a) `init release` on  2020-09-16T10:53:29Z
-
 There is some article you might want to read:
-
- - [Go: sysmon, Runtime Monitoring - 2020-09-13 16:10:44](https://medium.com/@blanchon.vincent/go-sysmon-runtime-monitoring-cff9395060b5?source=rss-f26b90a8ca4b------2)
 
  - [Go: Multiple Errors Management - 2020-09-01 13:44:28](https://medium.com/a-journey-with-go/go-multiple-errors-management-a67477628cf1?source=rss-f26b90a8ca4b------2)
 
- - [Looking Into Classical Concurrency Patterns as a Gopher - 2020-07-11 17:45:11](https://medium.com/swlh/looking-into-classical-concurrency-patterns-as-a-gopher-be32be3b2690?source=rss-1a65837801e2------2)
+ - [Go: Introduction to the Escape Analysis - 2020-08-06 16:01:01](https://medium.com/a-journey-with-go/go-introduction-to-the-escape-analysis-f7610174e890?source=rss-f26b90a8ca4b------2)
+
+ - [Go: Timers’ Life Cycle - 2020-07-06 16:01:01](https://medium.com/a-journey-with-go/go-timers-life-cycle-403f3580093a?source=rss-f26b90a8ca4b------2)
 
  - [Behind the scenes of Chat Applications - 2018-09-04 05:11:53](https://medium.com/@sudarakayasindu/behind-the-scenes-of-chat-applications-38634f584758?source=rss-1a65837801e2------2)
 
