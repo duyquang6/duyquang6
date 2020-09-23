@@ -1,5 +1,5 @@
 # Welcome to my github 
-Today is 22-Sep-2020\
+Today is 23-Sep-2020\
 What I do recently on github:
 
  - Contributing repo duyquang6/gintoki with [commit](https://github.com/duyquang6/gintoki/commit/a3f3a162db1199ae92d2c34eebecbdae6c32ad2b) `Update README.md` on  2020-09-19T12:22:53Z
@@ -14,12 +14,12 @@ What I do recently on github:
 
 There is some article you might want to read:
 
+ - [Hello Enrico Piccinin, - 2020-09-03 08:29:09](https://medium.com/@blanchon.vincent/hello-enrico-piccinin-df2df370745?source=rss-f26b90a8ca4b------2)
+
  - [Overcoming challenges of Serverless with Golang - 2020-06-22 06:19:11](https://medium.com/swlh/overcoming-challenges-of-serverless-with-golang-aa6078b3d3b7?source=rss-1a65837801e2------2)
 
  - [Hi @Thomas Thank you a lot for the input. - 2020-06-20 10:21:39](https://medium.com/@sudarakayasindu/hi-thomas-thank-you-a-lot-for-the-input-23348db967ed?source=rss-1a65837801e2------2)
 
- - [Rethinking Error Handling in Golang - 2020-06-13 18:14:49](https://medium.com/swlh/rethinking-error-handling-in-golang-eac8160afe4?source=rss-1a65837801e2------2)
+ - [Behind the scenes of Chat Applications - 2018-09-04 05:11:53](https://medium.com/@sudarakayasindu/behind-the-scenes-of-chat-applications-38634f584758?source=rss-1a65837801e2------2)
 
  - [How I spent my summer with GSoC 2018 as an intern at Free UK Genealogy - 2018-07-25 17:18:50](https://medium.com/@sudarakayasindu/how-i-spent-my-summer-with-gsoc-2018-as-an-intern-of-free-uk-genealogy-245f7871a886?source=rss-1a65837801e2------2)
-
- - [GSoC 2017 : Data Source plugin for Eclipse Che 5 - 2017-08-28 17:49:47](https://medium.com/@sudarakayasindu/gsoc-2017-data-source-plugin-for-eclipse-che-5-743235de3f6c?source=rss-1a65837801e2------2)
