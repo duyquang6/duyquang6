@@ -17,13 +17,13 @@ What I do recently on github:\
 
 There is some article you might want to read:
 
+ - [Go: Goroutine Leak Detector - 2020-09-23 14:50:40](https://medium.com/a-journey-with-go/go-goroutine-leak-detector-61a949beb88?source=rss-f26b90a8ca4b------2)
+
  - [I actually modified the runtime to see exactly what is happening. - 2020-09-03 10:06:09](https://medium.com/@blanchon.vincent/i-actually-modified-the-runtime-to-see-exactly-what-is-happening-a0f320f274c9?source=rss-f26b90a8ca4b------2)
 
- - [Go: How to Reduce Lock Contention with the Atomic Package - 2020-08-01 13:08:35](https://medium.com/a-journey-with-go/go-how-to-reduce-lock-contention-with-the-atomic-package-ba3b2664b549?source=rss-f26b90a8ca4b------2)
+ - [Hello Enrico Piccinin, - 2020-09-03 08:29:09](https://medium.com/@blanchon.vincent/hello-enrico-piccinin-df2df370745?source=rss-f26b90a8ca4b------2)
 
- - [Hi @Thomas Thank you a lot for the input. - 2020-06-20 10:21:39](https://medium.com/@sudarakayasindu/hi-thomas-thank-you-a-lot-for-the-input-23348db967ed?source=rss-1a65837801e2------2)
-
- - [Rethinking Error Handling in Golang - 2020-06-13 18:14:49](https://medium.com/swlh/rethinking-error-handling-in-golang-eac8160afe4?source=rss-1a65837801e2------2)
+ - [I have a draft about write barriers, I will continue to work on it in the next weeks, that should… - 2020-07-08 11:55:36](https://medium.com/@blanchon.vincent/i-have-a-draft-about-write-barriers-i-will-continue-to-work-on-it-in-the-next-weeks-that-should-78e6030f4426?source=rss-f26b90a8ca4b------2)
 
  - [Setting up Kong (1.4.0) API-Gateway on Ubuntu 18.04 - 2019-11-24 12:29:16](https://medium.com/@sudarakayasindu/setting-up-kong-1-4-0-api-gateway-on-ubuntu-18-04-a44d65166123?source=rss-1a65837801e2------2)
 
