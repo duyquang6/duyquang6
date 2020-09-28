@@ -1,5 +1,7 @@
 # Welcome to my github 
 Today is {{.Today}}\
+The language I used recently:\
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duyquang6&layout=compact&hide=html&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 What I do recently on github:
 {{range .GithubActivities}}
  - Contributing repo {{.Repo.Name}} with [commit]({{(index .Payload.Commits 0).HTMLURL}}) `{{(index .Payload.Commits 0).Msg}}` on  {{.CreatedAt}}
