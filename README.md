@@ -1,9 +1,11 @@
 # Welcome to my github 
 Today is 29-Sep-2020\
 The language I used recently:\
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duyquang6&layout=compact&hide=html&theme=dark)](https://github.com/anuraghazra/github-readme-stats)\
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duyquang6&layout=compact&hide=html,javascript&theme=dark)](https://github.com/anuraghazra/github-readme-stats)\
 What I do recently on github:\
 ![duyquang6's github stats](https://github-readme-stats.vercel.app/api?username=duyquang6&layout=compact&theme=dark&hide=stars,prs,contribs,issues)
+
+ - Contributing repo duyquang6/gintoki with [commit](https://github.com/duyquang6/gintoki/commit/d1f8e4d423956479203eee95271a74654041c186) `update readme` on  2020-09-29T04:09:24Z
 
  - Contributing repo duyquang6/gintoki with [commit](https://github.com/duyquang6/gintoki/commit/a3f3a162db1199ae92d2c34eebecbdae6c32ad2b) `Update README.md` on  2020-09-19T12:22:53Z
 
@@ -13,17 +15,15 @@ What I do recently on github:\
 
  - Contributing repo duyquang6/gintoki with [commit](https://github.com/duyquang6/gintoki/commit/f4f069351498431b692b614a4251ea149c5be5ee) `init release` on  2020-09-16T12:07:54Z
 
- - Contributing repo duyquang6/gintoki with [commit](https://github.com/duyquang6/gintoki/commit/d9a073fca6d25b039ab3280b0326b469912686ff) `init release` on  2020-09-16T12:07:01Z
-
 There is some article you might want to read:
 
- - [I actually modified the runtime to see exactly what is happening. - 2020-09-03 10:06:09](https://medium.com/@blanchon.vincent/i-actually-modified-the-runtime-to-see-exactly-what-is-happening-a0f320f274c9?source=rss-f26b90a8ca4b------2)
+ - [Hello Enrico Piccinin, - 2020-09-03 08:29:09](https://medium.com/@blanchon.vincent/hello-enrico-piccinin-df2df370745?source=rss-f26b90a8ca4b------2)
 
  - [Go: Built-in Functions Optimizations - 2020-08-12 16:01:01](https://medium.com/a-journey-with-go/go-built-in-functions-optimizations-70c5abb3a680?source=rss-f26b90a8ca4b------2)
 
  - [Go: How to Reduce Lock Contention with the Atomic Package - 2020-08-01 13:08:35](https://medium.com/a-journey-with-go/go-how-to-reduce-lock-contention-with-the-atomic-package-ba3b2664b549?source=rss-f26b90a8ca4b------2)
 
- - [Looking Into Classical Concurrency Patterns as a Gopher - 2020-07-11 17:45:11](https://medium.com/swlh/looking-into-classical-concurrency-patterns-as-a-gopher-be32be3b2690?source=rss-1a65837801e2------2)
-
  - [Rethinking Error Handling in Golang - 2020-06-13 18:14:49](https://medium.com/swlh/rethinking-error-handling-in-golang-eac8160afe4?source=rss-1a65837801e2------2)
+
+ - [Enabling and accessing Docker Engine API on a remote docker host on Ubuntu - 2017-09-26 07:35:38](https://medium.com/@sudarakayasindu/enabling-and-accessing-docker-engine-api-on-a-remote-docker-host-on-ubuntu-16-04-2c15f55f5d39?source=rss-1a65837801e2------2)
 
