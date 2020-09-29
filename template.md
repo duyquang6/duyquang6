@@ -1,7 +1,7 @@
 # Welcome to my github 
 Today is {{.Today}}\
 The language I used recently:\
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duyquang6&layout=compact&hide=html&theme=dark)](https://github.com/anuraghazra/github-readme-stats)\
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duyquang6&layout=compact&hide=html,javascript&theme=dark)](https://github.com/anuraghazra/github-readme-stats)\
 What I do recently on github:\
 ![duyquang6's github stats](https://github-readme-stats.vercel.app/api?username=duyquang6&layout=compact&theme=dark&hide=stars,prs,contribs,issues)
 {{range .GithubActivities}}
