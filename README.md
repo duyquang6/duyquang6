@@ -5,25 +5,25 @@ The programming languages I used recently:\
 What I do recently on github:\
 ![duyquang6's github stats](https://github-readme-stats.vercel.app/api?username=duyquang6&layout=compact&theme=dark&hide=stars,prs,contribs,issues)
 
+ - Contributing repo duyquang6/data-algo-practice with [commit](https://github.com/duyquang6/data-algo-practice/commit/ed06be40dd84f0492c237b90349ca9fa2f86e43a) `add solution LC #150` on  2020-09-29T11:17:12Z
+
+ - Contributing repo duyquang6/data-algo-practice with [commit](https://github.com/duyquang6/data-algo-practice/commit/98f042c0f0b96b2c13eede021f0775502797e73b) `add LC #1249` on  2020-09-29T10:41:32Z
+
+ - Contributing repo duyquang6/data-algo-practice with [commit](https://github.com/duyquang6/data-algo-practice/commit/68e48f20b4557666a4c7d67ab2b940b78ed68b84) `Update gitignore` on  2020-09-29T08:29:40Z
+
+ - Contributing repo duyquang6/data-algo-practice with [commit](https://github.com/duyquang6/data-algo-practice/commit/3995cebec97414c0659e980faf2316a9465b988e) `139. Word Break` on  2020-09-29T08:29:03Z
+
  - Contributing repo duyquang6/gintoki with [commit](https://github.com/duyquang6/gintoki/commit/d1f8e4d423956479203eee95271a74654041c186) `update readme` on  2020-09-29T04:09:24Z
-
- - Contributing repo duyquang6/gintoki with [commit](https://github.com/duyquang6/gintoki/commit/a3f3a162db1199ae92d2c34eebecbdae6c32ad2b) `Update README.md` on  2020-09-19T12:22:53Z
-
- - Contributing repo duyquang6/rust-threadpool with [commit](https://github.com/duyquang6/rust-threadpool/commit/23295a40014883d7b7f52813e4d83d1a6672880d) `add workerpool` on  2020-09-18T19:52:42Z
-
- - Contributing repo duyquang6/gintoki with [commit](https://github.com/duyquang6/gintoki/commit/83d3b00638a0de51fa026ce9f54f925bd85473d6) `update readme` on  2020-09-17T09:12:08Z
-
- - Contributing repo duyquang6/gintoki with [commit](https://github.com/duyquang6/gintoki/commit/f4f069351498431b692b614a4251ea149c5be5ee) `init release` on  2020-09-16T12:07:54Z
 
 There is some article you might want to read:
 
- - [Go: Goroutine Leak Detector - 2020-09-23 14:50:40](https://medium.com/a-journey-with-go/go-goroutine-leak-detector-61a949beb88?source=rss-f26b90a8ca4b------2)
+ - [I actually modified the runtime to see exactly what is happening. - 2020-09-03 10:06:09](https://medium.com/@blanchon.vincent/i-actually-modified-the-runtime-to-see-exactly-what-is-happening-a0f320f274c9?source=rss-f26b90a8ca4b------2)
 
- - [Go: sysmon, Runtime Monitoring - 2020-09-13 16:10:44](https://medium.com/@blanchon.vincent/go-sysmon-runtime-monitoring-cff9395060b5?source=rss-f26b90a8ca4b------2)
+ - [Go: Multiple Errors Management - 2020-09-01 13:44:28](https://medium.com/a-journey-with-go/go-multiple-errors-management-a67477628cf1?source=rss-f26b90a8ca4b------2)
 
- - [Go: How Are Deadlocks Triggered? - 2020-07-11 17:16:10](https://medium.com/a-journey-with-go/go-how-are-deadlocks-triggered-2305504ac019?source=rss-f26b90a8ca4b------2)
+ - [Go: Introduction to the Escape Analysis - 2020-08-06 16:01:01](https://medium.com/a-journey-with-go/go-introduction-to-the-escape-analysis-f7610174e890?source=rss-f26b90a8ca4b------2)
 
- - [Rethinking Error Handling in Golang - 2020-06-13 18:14:49](https://medium.com/swlh/rethinking-error-handling-in-golang-eac8160afe4?source=rss-1a65837801e2------2)
+ - [I have a draft about write barriers, I will continue to work on it in the next weeks, that should… - 2020-07-08 11:55:36](https://medium.com/@blanchon.vincent/i-have-a-draft-about-write-barriers-i-will-continue-to-work-on-it-in-the-next-weeks-that-should-78e6030f4426?source=rss-f26b90a8ca4b------2)
 
- - [Setting up Kong (1.4.0) API-Gateway on Ubuntu 18.04 - 2019-11-24 12:29:16](https://medium.com/@sudarakayasindu/setting-up-kong-1-4-0-api-gateway-on-ubuntu-18-04-a44d65166123?source=rss-1a65837801e2------2)
+ - [Behind the scenes of Chat Applications - 2018-09-04 05:11:53](https://medium.com/@sudarakayasindu/behind-the-scenes-of-chat-applications-38634f584758?source=rss-1a65837801e2------2)
 
