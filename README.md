@@ -5,6 +5,8 @@ The programming languages I used recently:\
 What I do recently on github:\
 ![duyquang6's github stats](https://github-readme-stats.vercel.app/api?username=duyquang6&layout=compact&hide=stars,prs,contribs,issues)
 
+ - Contributing repo duyquang6/data-algo-practice with [commit](https://github.com/duyquang6/data-algo-practice/commit/b226ba857bdf8534f4d98c2d4ffd8bf8a3b8f486) `add LC solution #701, #1608` on  2020-10-06T08:56:08Z
+
  - Contributing repo duyquang6/data-algo-practice with [commit](https://github.com/duyquang6/data-algo-practice/commit/46de4b4379838a7e64332149fedd3f03d10f7ef7) `add LC solution #1288,#867,#941,#1009` on  2020-10-05T08:22:06Z
 
  - Contributing repo duyquang6/data-algo-practice with [commit](https://github.com/duyquang6/data-algo-practice/commit/665f7dd1184b49e5b054706291f69eeebc20415c) `add solution LC #922 #475 #1572, add url LC challenge` on  2020-10-04T02:53:27Z
@@ -13,17 +15,15 @@ What I do recently on github:\
 
  - Contributing repo duyquang6/data-algo-practice with [commit](https://github.com/duyquang6/data-algo-practice/commit/e1825a609e2cfecccc8925383dd77fd0a21886bb) `solution LC #507` on  2020-10-03T03:33:43Z
 
- - Contributing repo duyquang6/data-algo-practice with [commit](https://github.com/duyquang6/data-algo-practice/commit/562eb2585bc31c5bb129906e59b741fa2e0ed1cc) `add LC solution #39 #414 #581 #859 #933` on  2020-10-02T08:35:12Z
-
 There is some article you might want to read:
+
+ - [Go: Goroutine Leak Detector - 2020-09-23 14:50:40](https://medium.com/a-journey-with-go/go-goroutine-leak-detector-61a949beb88?source=rss-f26b90a8ca4b------2)
 
  - [Go: sysmon, Runtime Monitoring - 2020-09-13 16:10:44](https://medium.com/@blanchon.vincent/go-sysmon-runtime-monitoring-cff9395060b5?source=rss-f26b90a8ca4b------2)
 
- - [Go: Multiple Errors Management - 2020-09-01 13:44:28](https://medium.com/a-journey-with-go/go-multiple-errors-management-a67477628cf1?source=rss-f26b90a8ca4b------2)
+ - [I actually modified the runtime to see exactly what is happening. - 2020-09-03 10:06:09](https://medium.com/@blanchon.vincent/i-actually-modified-the-runtime-to-see-exactly-what-is-happening-a0f320f274c9?source=rss-f26b90a8ca4b------2)
 
- - [Go: How to Reduce Lock Contention with the Atomic Package - 2020-08-01 13:08:35](https://medium.com/a-journey-with-go/go-how-to-reduce-lock-contention-with-the-atomic-package-ba3b2664b549?source=rss-f26b90a8ca4b------2)
+ - [Go: Built-in Functions Optimizations - 2020-08-12 16:01:01](https://medium.com/a-journey-with-go/go-built-in-functions-optimizations-70c5abb3a680?source=rss-f26b90a8ca4b------2)
 
- - [Rethinking Error Handling in Golang - 2020-06-13 18:14:49](https://medium.com/swlh/rethinking-error-handling-in-golang-eac8160afe4?source=rss-1a65837801e2------2)
-
- - [How I spent my summer with GSoC 2018 as an intern at Free UK Genealogy - 2018-07-25 17:18:50](https://medium.com/@sudarakayasindu/how-i-spent-my-summer-with-gsoc-2018-as-an-intern-of-free-uk-genealogy-245f7871a886?source=rss-1a65837801e2------2)
+ - [Setting up Kong (1.4.0) API-Gateway on Ubuntu 18.04 - 2019-11-24 12:29:16](https://medium.com/@sudarakayasindu/setting-up-kong-1-4-0-api-gateway-on-ubuntu-18-04-a44d65166123?source=rss-1a65837801e2------2)
 
