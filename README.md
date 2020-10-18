@@ -1,5 +1,5 @@
 # Welcome to my github 
-Today is 17-Oct-2020\
+Today is 18-Oct-2020\
 The programming languages I used recently:\
 <img src="https://wakatime.com/share/@duyquang6/fbe267a6-a29b-4a1a-b769-c566a361c376.svg" width="600">\
 What I do recently on github:\
@@ -17,13 +17,13 @@ What I do recently on github:\
 
 There is some article you might want to read:
 
- - [I actually modified the runtime to see exactly what is happening. - 2020-09-03 10:06:09](https://medium.com/@blanchon.vincent/i-actually-modified-the-runtime-to-see-exactly-what-is-happening-a0f320f274c9?source=rss-f26b90a8ca4b------2)
+ - [Go: Multiple Errors Management - 2020-09-01 13:44:28](https://medium.com/a-journey-with-go/go-multiple-errors-management-a67477628cf1?source=rss-f26b90a8ca4b------2)
 
- - [Hello Enrico Piccinin, - 2020-09-03 08:29:09](https://medium.com/@blanchon.vincent/hello-enrico-piccinin-df2df370745?source=rss-f26b90a8ca4b------2)
+ - [Go: Built-in Functions Optimizations - 2020-08-12 16:01:01](https://medium.com/a-journey-with-go/go-built-in-functions-optimizations-70c5abb3a680?source=rss-f26b90a8ca4b------2)
 
- - [Hi @Thomas Thank you a lot for the input. - 2020-06-20 10:21:39](https://medium.com/@sudarakayasindu/hi-thomas-thank-you-a-lot-for-the-input-23348db967ed?source=rss-1a65837801e2------2)
+ - [Go: How Are Deadlocks Triggered? - 2020-07-11 17:16:10](https://medium.com/a-journey-with-go/go-how-are-deadlocks-triggered-2305504ac019?source=rss-f26b90a8ca4b------2)
 
  - [Go Modules for Go Dep Users - 2020-06-06 19:11:55](https://medium.com/@sudarakayasindu/go-modules-for-go-dep-users-2f2d983525fc?source=rss-1a65837801e2------2)
 
- - [Enabling and accessing Docker Engine API on a remote docker host on Ubuntu - 2017-09-26 07:35:38](https://medium.com/@sudarakayasindu/enabling-and-accessing-docker-engine-api-on-a-remote-docker-host-on-ubuntu-16-04-2c15f55f5d39?source=rss-1a65837801e2------2)
+ - [GSoC 2017 : Data Source plugin for Eclipse Che 5 - 2017-08-28 17:49:47](https://medium.com/@sudarakayasindu/gsoc-2017-data-source-plugin-for-eclipse-che-5-743235de3f6c?source=rss-1a65837801e2------2)
 
