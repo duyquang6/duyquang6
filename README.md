@@ -17,13 +17,13 @@ What I do recently on github:\
 
 There is some article you might want to read:
 
- - [Hello Enrico Piccinin, - 2020-09-03 08:29:09](https://medium.com/@blanchon.vincent/hello-enrico-piccinin-df2df370745?source=rss-f26b90a8ca4b------2)
+ - [Go: Introduction to the Escape Analysis - 2020-08-06 16:01:01](https://medium.com/a-journey-with-go/go-introduction-to-the-escape-analysis-f7610174e890?source=rss-f26b90a8ca4b------2)
 
- - [Go: How Are Deadlocks Triggered? - 2020-07-11 17:16:10](https://medium.com/a-journey-with-go/go-how-are-deadlocks-triggered-2305504ac019?source=rss-f26b90a8ca4b------2)
+ - [Looking Into Classical Concurrency Patterns as a Gopher - 2020-07-11 17:45:11](https://medium.com/swlh/looking-into-classical-concurrency-patterns-as-a-gopher-be32be3b2690?source=rss-1a65837801e2------2)
 
  - [Overcoming challenges of Serverless with Golang - 2020-06-22 06:19:11](https://medium.com/swlh/overcoming-challenges-of-serverless-with-golang-aa6078b3d3b7?source=rss-1a65837801e2------2)
 
  - [Rethinking Error Handling in Golang - 2020-06-13 18:14:49](https://medium.com/swlh/rethinking-error-handling-in-golang-eac8160afe4?source=rss-1a65837801e2------2)
 
- - [Behind the scenes of Chat Applications - 2018-09-04 05:11:53](https://medium.com/@sudarakayasindu/behind-the-scenes-of-chat-applications-38634f584758?source=rss-1a65837801e2------2)
+ - [Enabling and accessing Docker Engine API on a remote docker host on Ubuntu - 2017-09-26 07:35:38](https://medium.com/@sudarakayasindu/enabling-and-accessing-docker-engine-api-on-a-remote-docker-host-on-ubuntu-16-04-2c15f55f5d39?source=rss-1a65837801e2------2)
 
