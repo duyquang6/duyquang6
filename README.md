@@ -17,13 +17,13 @@ What I do recently on github:\
 
 There is some article you might want to read:
 
- - [Go: Goroutine Leak Detector - 2020-09-23 14:50:40](https://medium.com/a-journey-with-go/go-goroutine-leak-detector-61a949beb88?source=rss-f26b90a8ca4b------2)
+ - [Go: Built-in Functions Optimizations - 2020-08-12 16:01:01](https://medium.com/a-journey-with-go/go-built-in-functions-optimizations-70c5abb3a680?source=rss-f26b90a8ca4b------2)
 
  - [Go: Introduction to the Escape Analysis - 2020-08-06 16:01:01](https://medium.com/a-journey-with-go/go-introduction-to-the-escape-analysis-f7610174e890?source=rss-f26b90a8ca4b------2)
 
- - [Overcoming challenges of Serverless with Golang - 2020-06-22 06:19:11](https://medium.com/swlh/overcoming-challenges-of-serverless-with-golang-aa6078b3d3b7?source=rss-1a65837801e2------2)
+ - [Looking Into Classical Concurrency Patterns as a Gopher - 2020-07-11 17:45:11](https://medium.com/swlh/looking-into-classical-concurrency-patterns-as-a-gopher-be32be3b2690?source=rss-1a65837801e2------2)
 
- - [Rethinking Error Handling in Golang - 2020-06-13 18:14:49](https://medium.com/swlh/rethinking-error-handling-in-golang-eac8160afe4?source=rss-1a65837801e2------2)
+ - [Go Modules for Go Dep Users - 2020-06-06 19:11:55](https://medium.com/@sudarakayasindu/go-modules-for-go-dep-users-2f2d983525fc?source=rss-1a65837801e2------2)
 
- - [How I spent my summer with GSoC 2018 as an intern at Free UK Genealogy - 2018-07-25 17:18:50](https://medium.com/@sudarakayasindu/how-i-spent-my-summer-with-gsoc-2018-as-an-intern-of-free-uk-genealogy-245f7871a886?source=rss-1a65837801e2------2)
+ - [Behind the scenes of Chat Applications - 2018-09-04 05:11:53](https://medium.com/@sudarakayasindu/behind-the-scenes-of-chat-applications-38634f584758?source=rss-1a65837801e2------2)
 
