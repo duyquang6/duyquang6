@@ -17,13 +17,13 @@ What I do recently on github:\
 
 There is some article you might want to read:
 
- - [Go: Multiple Errors Management - 2020-09-01 13:44:28](https://medium.com/a-journey-with-go/go-multiple-errors-management-a67477628cf1?source=rss-f26b90a8ca4b------2)
+ - [Go: How Does a Program Recover? - 2020-10-02 15:21:58](https://medium.com/a-journey-with-go/go-how-does-a-program-recover-fbbbf27cc31e?source=rss-f26b90a8ca4b------2)
+
+ - [Go: Goroutine Leak Detector - 2020-09-23 14:50:40](https://medium.com/a-journey-with-go/go-goroutine-leak-detector-61a949beb88?source=rss-f26b90a8ca4b------2)
 
  - [Go: Introduction to the Escape Analysis - 2020-08-06 16:01:01](https://medium.com/a-journey-with-go/go-introduction-to-the-escape-analysis-f7610174e890?source=rss-f26b90a8ca4b------2)
 
- - [Looking Into Classical Concurrency Patterns as a Gopher - 2020-07-11 17:45:11](https://medium.com/swlh/looking-into-classical-concurrency-patterns-as-a-gopher-be32be3b2690?source=rss-1a65837801e2------2)
+ - [Go: How to Reduce Lock Contention with the Atomic Package - 2020-08-01 13:08:35](https://medium.com/a-journey-with-go/go-how-to-reduce-lock-contention-with-the-atomic-package-ba3b2664b549?source=rss-f26b90a8ca4b------2)
 
  - [Go: How Are Deadlocks Triggered? - 2020-07-11 17:16:10](https://medium.com/a-journey-with-go/go-how-are-deadlocks-triggered-2305504ac019?source=rss-f26b90a8ca4b------2)
-
- - [Go Modules for Go Dep Users - 2020-06-06 19:11:55](https://medium.com/@sudarakayasindu/go-modules-for-go-dep-users-2f2d983525fc?source=rss-1a65837801e2------2)
 
