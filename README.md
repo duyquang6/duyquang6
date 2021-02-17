@@ -5,6 +5,8 @@ The programming languages I used recently:\
 What I do recently on github:\
 ![duyquang6's github stats](https://github-readme-stats.vercel.app/api?username=duyquang6&layout=compact&hide=stars,prs,contribs,issues)
 
+ - Contributing repo duyquang6/go-rbac-practice with [commit](https://github.com/duyquang6/go-rbac-practice/commit/ac358703f12e3fb2cbaadfcf9932c0f6c4570d16) `update go ver` on  2021-02-17T01:52:46Z
+
  - Contributing repo duyquang6/go-rbac-practice with [commit](https://github.com/duyquang6/go-rbac-practice/commit/a33caa974d1938d17988a15fbfa1ed096e798290) `edit readme` on  2021-02-14T09:04:57Z
 
  - Contributing repo duyquang6/go-rbac-practice with [commit](https://github.com/duyquang6/go-rbac-practice/commit/5e97d1389adc2a01582a881461b22296e9a55809) `edit readme` on  2021-02-14T09:04:19Z
@@ -13,17 +15,15 @@ What I do recently on github:\
 
  - Contributing repo duyquang6/go-rbac-practice with [commit](https://github.com/duyquang6/go-rbac-practice/commit/f3128e753e329dda6c5cf98db38bf35a91ad82fb) `add session` on  2021-02-13T10:45:07Z
 
- - Contributing repo duyquang6/go-rbac-practice with [commit](https://github.com/duyquang6/go-rbac-practice/commit/b11a6691e9637413c252b96ff95532c298740086) `update api code` on  2021-02-13T04:26:22Z
-
 There is some article you might want to read:
 
  - [Go: How Does a Program Recover? - 2020-10-02 15:21:58](https://medium.com/a-journey-with-go/go-how-does-a-program-recover-fbbbf27cc31e?source=rss-f26b90a8ca4b------2)
 
- - [Go: sysmon, Runtime Monitoring - 2020-09-13 16:10:44](https://medium.com/@blanchon.vincent/go-sysmon-runtime-monitoring-cff9395060b5?source=rss-f26b90a8ca4b------2)
+ - [Go: Multiple Errors Management - 2020-09-01 13:44:28](https://medium.com/a-journey-with-go/go-multiple-errors-management-a67477628cf1?source=rss-f26b90a8ca4b------2)
 
- - [Looking Into Classical Concurrency Patterns as a Gopher - 2020-07-11 17:45:11](https://medium.com/swlh/looking-into-classical-concurrency-patterns-as-a-gopher-be32be3b2690?source=rss-1a65837801e2------2)
+ - [Rethinking Error Handling in Golang - 2020-06-13 18:14:49](https://medium.com/swlh/rethinking-error-handling-in-golang-eac8160afe4?source=rss-1a65837801e2------2)
 
- - [Go Modules for Go Dep Users - 2020-06-06 19:11:55](https://medium.com/@sudarakayasindu/go-modules-for-go-dep-users-2f2d983525fc?source=rss-1a65837801e2------2)
+ - [How I spent my summer with GSoC 2018 as an intern at Free UK Genealogy - 2018-07-25 17:18:50](https://medium.com/@sudarakayasindu/how-i-spent-my-summer-with-gsoc-2018-as-an-intern-of-free-uk-genealogy-245f7871a886?source=rss-1a65837801e2------2)
 
- - [Setting up Kong (1.4.0) API-Gateway on Ubuntu 18.04 - 2019-11-24 12:29:16](https://medium.com/@sudarakayasindu/setting-up-kong-1-4-0-api-gateway-on-ubuntu-18-04-a44d65166123?source=rss-1a65837801e2------2)
+ - [GSoC 2017 : Data Source plugin for Eclipse Che 5 - 2017-08-28 17:49:47](https://medium.com/@sudarakayasindu/gsoc-2017-data-source-plugin-for-eclipse-che-5-743235de3f6c?source=rss-1a65837801e2------2)
 
