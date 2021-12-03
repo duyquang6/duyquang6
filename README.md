@@ -17,13 +17,13 @@ What I do recently on github:\
 
 There is some article you might want to read:
 
- - [Go: sysmon, Runtime Monitoring - 2020-09-13 16:10:44](https://medium.com/@blanchon.vincent/go-sysmon-runtime-monitoring-cff9395060b5?source=rss-f26b90a8ca4b------2)
+ - [Go: How Does a Program Recover? - 2020-10-02 15:21:58](https://medium.com/a-journey-with-go/go-how-does-a-program-recover-fbbbf27cc31e?source=rss-f26b90a8ca4b------2)
+
+ - [Go: Built-in Functions Optimizations - 2020-08-12 16:01:01](https://medium.com/a-journey-with-go/go-built-in-functions-optimizations-70c5abb3a680?source=rss-f26b90a8ca4b------2)
 
  - [Looking Into Classical Concurrency Patterns as a Gopher - 2020-07-11 17:45:11](https://medium.com/swlh/looking-into-classical-concurrency-patterns-as-a-gopher-be32be3b2690?source=rss-1a65837801e2------2)
 
- - [Go: How Are Deadlocks Triggered? - 2020-07-11 17:16:10](https://medium.com/a-journey-with-go/go-how-are-deadlocks-triggered-2305504ac019?source=rss-f26b90a8ca4b------2)
-
  - [Rethinking Error Handling in Golang - 2020-06-13 18:14:49](https://medium.com/swlh/rethinking-error-handling-in-golang-eac8160afe4?source=rss-1a65837801e2------2)
 
- - [GSoC 2017 : Data Source plugin for Eclipse Che 5 - 2017-08-28 17:49:47](https://sudarakayasindu.medium.com/gsoc-2017-data-source-plugin-for-eclipse-che-5-743235de3f6c?source=rss-1a65837801e2------2)
+ - [Behind the scenes of Chat Applications - 2018-09-04 05:11:53](https://sudarakayasindu.medium.com/behind-the-scenes-of-chat-applications-38634f584758?source=rss-1a65837801e2------2)
 
