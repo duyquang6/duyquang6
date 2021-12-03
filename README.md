@@ -1,9 +1,11 @@
 # Welcome to my github 
-Today is 02-Dec-2021\
+Today is 03-Dec-2021\
 The programming languages I used recently:\
 <img src="https://wakatime.com/share/@duyquang6/fbe267a6-a29b-4a1a-b769-c566a361c376.svg" width="600">\
 What I do recently on github:\
 ![duyquang6's github stats](https://github-readme-stats.vercel.app/api?username=duyquang6&layout=compact&hide=stars,prs,contribs,issues)
+
+ - Contributing repo duyquang6/wager-management-be with [commit](https://github.com/duyquang6/wager-management-be/commit/09442e97f4a860f0806d36561770c5a3b6fb39f3) `Update tag image by sha256 commit` on  2021-12-02T15:51:40Z
 
  - Contributing repo duyquang6/wager-management-be with [commit](https://github.com/duyquang6/wager-management-be/commit/bb0e287db9d92f65446bf05bd3d38146b5f2f54b) `Update README` on  2021-11-30T17:52:14Z
 
@@ -15,7 +17,7 @@ What I do recently on github:\
 
 There is some article you might want to read:
 
- - [Go: Built-in Functions Optimizations - 2020-08-12 16:01:01](https://medium.com/a-journey-with-go/go-built-in-functions-optimizations-70c5abb3a680?source=rss-f26b90a8ca4b------2)
+ - [Go: sysmon, Runtime Monitoring - 2020-09-13 16:10:44](https://medium.com/@blanchon.vincent/go-sysmon-runtime-monitoring-cff9395060b5?source=rss-f26b90a8ca4b------2)
 
  - [Looking Into Classical Concurrency Patterns as a Gopher - 2020-07-11 17:45:11](https://medium.com/swlh/looking-into-classical-concurrency-patterns-as-a-gopher-be32be3b2690?source=rss-1a65837801e2------2)
 
