@@ -17,11 +17,11 @@ What I do recently on github:\
 
 There is some article you might want to read:
 
- - [Go: Goroutine Leak Detector - 2020-09-23 14:50:40](https://medium.com/a-journey-with-go/go-goroutine-leak-detector-61a949beb88?source=rss-f26b90a8ca4b------2)
+ - [Go: Multiple Errors Management - 2020-09-01 13:44:28](https://medium.com/a-journey-with-go/go-multiple-errors-management-a67477628cf1?source=rss-f26b90a8ca4b------2)
 
- - [Go: How Are Deadlocks Triggered? - 2020-07-11 17:16:10](https://medium.com/a-journey-with-go/go-how-are-deadlocks-triggered-2305504ac019?source=rss-f26b90a8ca4b------2)
+ - [Go: Built-in Functions Optimizations - 2020-08-12 16:01:01](https://medium.com/a-journey-with-go/go-built-in-functions-optimizations-70c5abb3a680?source=rss-f26b90a8ca4b------2)
 
- - [Rethinking Error Handling in Golang - 2020-06-13 18:14:49](https://medium.com/swlh/rethinking-error-handling-in-golang-eac8160afe4?source=rss-1a65837801e2------2)
+ - [Go: Timers’ Life Cycle - 2020-07-06 16:01:01](https://medium.com/a-journey-with-go/go-timers-life-cycle-403f3580093a?source=rss-f26b90a8ca4b------2)
 
  - [Setting up Kong (1.4.0) API-Gateway on Ubuntu 18.04 - 2019-11-24 12:29:16](https://sudarakayasindu.medium.com/setting-up-kong-1-4-0-api-gateway-on-ubuntu-18-04-a44d65166123?source=rss-1a65837801e2------2)
 
