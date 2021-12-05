@@ -11,10 +11,13 @@ import (
 	"net/http"
 	"os"
 	"sort"
+	"strconv"
+	"strings"
 	"text/template"
 	"time"
 
 	firebase "firebase.google.com/go"
+	tgbotapi "github.com/go-telegram-bot-api/telegram-bot-api/v5"
 	"google.golang.org/api/iterator"
 	"google.golang.org/api/option"
 )
@@ -101,6 +104,24 @@ func main() {
 	rand.Shuffle(len(rssData), func(i, j int) { rssData[i], rssData[j] = rssData[j], rssData[i] })
 	rssData = rssData[:MAX_TOPIC]
 	sort.Slice(rssData, func(i, j int) bool { return rssData[i].PublishedDate > rssData[j].PublishedDate })
+
+	// Send telebot
+	bot, err := tgbotapi.NewBotAPI(os.Getenv("TELEGRAM_BOT_TOKEN"))
+	log.Printf("Authorized on account %s \n", bot.Self.UserName)
+	if err != nil {
+		log.Println("error connect telegram, error", err)
+	} else {
+		id, _ := strconv.ParseInt(os.Getenv("TELEGRAM_BOT_CHAT_ID"), 10, 64)
+		var sb strings.Builder
+		sb.WriteString("Today publications\n")
+		for _, rss := range rssData {
+			sb.WriteString(rss.Title + " - " + rss.Link + " - " + rss.PublishedDate)
+			sb.WriteRune('\n')
+		}
+		msg := tgbotapi.NewMessage(id, sb.String())
+		bot.Send(msg)
+	}
+
 	githubActivities, err := getGithubRecentActivity("duyquang6")
 	writeReadme(rssData, githubActivities)
 }
