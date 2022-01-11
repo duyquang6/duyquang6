@@ -19,11 +19,11 @@ There is some article you might want to read:
 
  - [Go: sysmon, Runtime Monitoring - 2020-09-13 16:10:44](https://medium.com/@blanchon.vincent/go-sysmon-runtime-monitoring-cff9395060b5?source=rss-f26b90a8ca4b------2)
 
+ - [Go: Multiple Errors Management - 2020-09-01 13:44:28](https://medium.com/a-journey-with-go/go-multiple-errors-management-a67477628cf1?source=rss-f26b90a8ca4b------2)
+
  - [Go: Introduction to the Escape Analysis - 2020-08-06 16:01:01](https://medium.com/a-journey-with-go/go-introduction-to-the-escape-analysis-f7610174e890?source=rss-f26b90a8ca4b------2)
 
  - [Looking Into Classical Concurrency Patterns as a Gopher - 2020-07-11 17:45:11](https://medium.com/swlh/looking-into-classical-concurrency-patterns-as-a-gopher-be32be3b2690?source=rss-1a65837801e2------2)
 
- - [Go: Timers’ Life Cycle - 2020-07-06 16:01:01](https://medium.com/a-journey-with-go/go-timers-life-cycle-403f3580093a?source=rss-f26b90a8ca4b------2)
-
- - [Setting up Kong (1.4.0) API-Gateway on Ubuntu 18.04 - 2019-11-24 12:29:16](https://sudarakayasindu.medium.com/setting-up-kong-1-4-0-api-gateway-on-ubuntu-18-04-a44d65166123?source=rss-1a65837801e2------2)
+ - [Go: Object File &amp; Relocations - 2020-07-01 13:52:31](https://medium.com/a-journey-with-go/go-object-file-relocations-804438ec379b?source=rss-f26b90a8ca4b------2)
 
