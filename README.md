@@ -1,5 +1,5 @@
 # Welcome to my github 
-Today is 05-Feb-2022\
+Today is 06-Feb-2022\
 The programming languages I used recently:\
 <img src="https://wakatime.com/share/@duyquang6/fbe267a6-a29b-4a1a-b769-c566a361c376.svg" width="600">\
 What I do recently on github:\
@@ -25,11 +25,11 @@ There is some article you might want to read:
 
  - [Installing OpenJDK on M1 Macbook Pro - 2021-12-10 11:42:47](https://sudarakayasindu.medium.com/installing-openjdk-on-m1-macbook-pro-4188ce3f9cf0?source=rss-1a65837801e2------2)
 
- - [Go: Goroutine Leak Detector - 2020-09-23 14:50:40](https://medium.com/a-journey-with-go/go-goroutine-leak-detector-61a949beb88?source=rss-f26b90a8ca4b------2)
-
- - [Go: Introduction to the Escape Analysis - 2020-08-06 16:01:01](https://medium.com/a-journey-with-go/go-introduction-to-the-escape-analysis-f7610174e890?source=rss-f26b90a8ca4b------2)
+ - [Go: Multiple Errors Management - 2020-09-01 13:44:28](https://medium.com/a-journey-with-go/go-multiple-errors-management-a67477628cf1?source=rss-f26b90a8ca4b------2)
 
  - [Looking Into Classical Concurrency Patterns as a Gopher - 2020-07-11 17:45:11](https://medium.com/swlh/looking-into-classical-concurrency-patterns-as-a-gopher-be32be3b2690?source=rss-1a65837801e2------2)
+
+ - [Go: How Are Deadlocks Triggered? - 2020-07-11 17:16:10](https://medium.com/a-journey-with-go/go-how-are-deadlocks-triggered-2305504ac019?source=rss-f26b90a8ca4b------2)
 
  - [Go: Timers’ Life Cycle - 2020-07-06 16:01:01](https://medium.com/a-journey-with-go/go-timers-life-cycle-403f3580093a?source=rss-f26b90a8ca4b------2)
 
