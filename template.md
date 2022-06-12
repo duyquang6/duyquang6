@@ -1,5 +1,5 @@
 # Welcome to my github 
-Today is {{.Today}}\
+Today is {{.Today}}
 <!-- The programming languages I used recently:\
 <img src="https://wakatime.com/share/@duyquang6/fbe267a6-a29b-4a1a-b769-c566a361c376.svg" width="600">\ -->
 What I do recently on github:\
