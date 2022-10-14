@@ -41,4 +41,3 @@ jobs:
         git config --global user.name "Github Action bot"
         git add README.md
         git commit -m "Update README.md"
-        git push
